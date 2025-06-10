@@ -8,7 +8,7 @@ import sys
 import ast # For converting string representation of dict back to dict
 import random # For Monte Carlo Simulation
 
-print("Imports successful")
+# print("Imports successful")
 
 DEFAULT_START_DATE = datetime.datetime(2023, 1, 1) 
 DEFAULT_END_DATE = datetime.datetime(2023, 1, 3)   
